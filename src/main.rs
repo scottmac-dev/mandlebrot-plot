@@ -63,7 +63,7 @@ fn render(
 
             pixels[row * bounds.0 + column] = match escape_time(point, 255) {
                 None => 0,
-                Some(count) => 0 + count as u8
+                Some(count) => 255 - count as u8
             };
         }
     }
