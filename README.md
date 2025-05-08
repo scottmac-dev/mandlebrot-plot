@@ -4,7 +4,9 @@ This Rust program can be used to generate custom mandlebrot plots via the CLI te
 I created it while working through the Programming Rust text book and take no credit for the source code, it was created purely as a learning experience.
 
 [Get The Book](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+
 [About The Mandlebrot Plot Set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+
 [Install Rust](https://www.rust-lang.org/tools/install)
 
 ## Requirements
