@@ -5,10 +5,11 @@ I created it while working through the Programming Rust text book and take no cr
 
 [Get The Book](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 [About The Mandlebrot Plot Set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+[Install Rust](https://www.rust-lang.org/tools/install)
 
 ## Requirements
--rustc
--cargo
+    - rustc
+    - cargo
 
 ## Running the program
 ```bash 
